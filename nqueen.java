@@ -1,5 +1,5 @@
 package backtracking;
-
+//importing
 public class NQueenSolver {
     public boolean isSafe(int row, int col, char[][] board) {
         //horizontal
